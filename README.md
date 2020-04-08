@@ -1,2 +1,2 @@
 # GetITEbooks
-Search and Download IT ebooks from ebooks's website
+Search and Download IT ebooks from ebooks's website, such as http://www.allitebooks.org/,...
